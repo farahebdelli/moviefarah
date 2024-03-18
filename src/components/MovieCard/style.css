@@ -1,0 +1,9 @@
+.movie-card {
+    height: 600px; /* Définir une hauteur fixe pour toutes les cartes */
+    margin-bottom: 30px; /* Espacement inférieur entre les cartes */
+}
+
+.movie-card img {
+    height: 300px; /* Ajuster la taille de l'image en conséquence */
+    object-fit: cover; /* Ajustement de la taille de l'image pour remplir le conteneur sans déformation */
+}
