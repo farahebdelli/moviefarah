@@ -32,10 +32,10 @@ const AddMovie = ({
             />
           </Form.Group>
           <Form.Group className="mb-3">
-            <Form.Label>Description</Form.Label>
+            <Form.Label>description</Form.Label>
             <Form.Control
               as="textarea"
-              name="Description"
+              name="description"
               rows={3}
               onChange={handlChange}
             />
